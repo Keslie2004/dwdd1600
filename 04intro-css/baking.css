@@ -8,23 +8,23 @@ body {
 
 /* header stuff here */
 header {
-    background-color: #f28585;
+    background-color: #ff5e14;
     padding: 1rem 2vw;
 }
 header h1 {
     margin: 0;
-    color: #f2c6c2;
+    color: #f9f9f9;
 }
 header p {
     margin: 0;
-    color: #f2c6c2;
+    color: #f9f9f9;
     letter-spacing: .5px;
 }
 
 
 /* nav stuff goes here */
 nav {
-    background-color: #f2c6c2;
+    background-color: #123740;
 }
 nav ul {
     list-style-type: none;
@@ -35,14 +35,14 @@ nav ul {
 nav a {
     font-size: 1.3rem;
     text-decoration: none;
-    color: #86a69d;
+    color: #f9f9f9;
     font-weight: 500;
     display: block;
     padding: .83rem 2rem;
 }
 nav li.active a {
-    background-color: #86a69d;
-        color: #f2c6c2;
+    background-color: #f9f9f9;
+        color: #123740;
 }
 nav a:hover {
     color: white
@@ -54,14 +54,14 @@ main {
     padding: 1rem 2vw;
 }
 main h1 {
-    color: #f28585;
+    color: #ff5e14;
 }
 main h2 {
-    color: #86a69d;
+    color: #549aab;
     margin-bottom: .2rem;
 }
 main p {
-    color: #2f3133;
+    color: #123740;
     margin: 0 0 .3rem 0;
 }
 main ol {
@@ -69,11 +69,11 @@ main ol {
     background-color: #efefef
 }
 main dl dt {
-    color: #f28585;
+    color: #ff5e14;
     font-weight: 300;
 }
 main dl dd {
-    color: #86a69d;
+    color: #549aab;
     font-size: .9rem;
 }
 main ul {
@@ -86,31 +86,31 @@ main ul li {
 }
 main address {
     font-style: normal;
-    background-color: #f2c6c2;
+    background-color: #f9f9f9;
     padding: .5rem;
     width: 12.5rem;
-    border: 1px solid #86a69d;
+    border: 1px solid #123740;
     border-radius: 5px;
 }
 main a {
-    color: #86a69d;
+    color: #549aab;
 }
 main a:hover {
-    color: #f28585;
+    color: #ff5e14;
 }
 
 
 /* footer stuff here */
 footer {
-    background-color: #f2e8df;
+    background-color: #123740;
     text-align: center;
-    color: #86a69d;
+    color: #f9f9f9;
     padding: 1rem 0;
     font-size: .8rem;
 }
 footer a {
-    color: #86a69d;
+    color: #f9f9f9;
 }
 footer a:hover {
-    color: #f28585;
+    color: #ff5e14;
 }
