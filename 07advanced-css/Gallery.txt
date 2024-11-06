@@ -1,0 +1,47 @@
+        <figure>
+            <img src="images.txt/our_new_komin.jpg" alt="Croatian Ovens" 
+            width="300" height="300" loading="lazy">
+            <figcaption>Croatian Ovens</figcaption>
+        </figure>
+        
+                <div class="gallery">
+            <figure>
+            <img src="images.txt/bread.jpg" alt="Bread"
+            width="300" height="182" loading="lazy">
+            <figcaption>Bread</figcaption>
+            </figure>
+            
+           <figure>
+            <img src="images.txt/cookies.jpg" alt="Cookies"
+            width="300" height="225" loading="lazy">
+            <figcaption>Cookies</figcaption>
+            </figure>
+            <figure>
+    <img src="images.txt/brownies.jpg" alt="Brownies" width="300" height="443" loading="lazy">
+    <figcaption>Brownies</figcaption>
+</figure>
+
+<figure>
+    <img src="images.txt/cinnamon-rolls.jpg" alt="Cinnamon Rolls" width="300" height="300" loading="lazy">
+    <figcaption>Cinnamon Rolls</figcaption>
+</figure>
+
+<figure>
+    <img src="images.txt/cake.jpg" alt="Cake" width="300" height="300" loading="lazy">
+    <figcaption>Cake</figcaption>
+</figure>
+
+<figure>
+    <img src="images.txt/donuts.jpg" alt="Donuts" width="300" height="168" loading="lazy">
+    <figcaption>Donuts</figcaption>
+</figure>
+
+<figure>
+    <img src="images.txt/pie.jpg" alt="Pie" width="300" height="420" loading="lazy">
+    <figcaption>Pie</figcaption>
+</figure>
+
+<figure>
+    <img src="images.txt/peach-cobbler.jpg" alt="Peach Cobbler" width="300" height="200" loading="lazy">
+    <figcaption>Peach Cobbler</figcaption>
+</figure>
