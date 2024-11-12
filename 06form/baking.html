@@ -36,7 +36,7 @@
             <legend>User Information</legend>
             <label>First Name*<input type="text" name="fname" required></label>
             <label>Last Name*<input type="text" name="lname" required></label>
-            <label>Email*<input type="text" name="mail" required placeholder="janedoe123@gmail.com"></label>
+            <label>Email*<input type="email" name="mail" required placeholder="janedoe123@gmail.com"></label>
             <label>Cell Number*<input type="tel" name="phone" required placeholder="123-456-7890"></label>
             </fieldset>
             
@@ -54,8 +54,18 @@
             <label><input type="checkbox" name="PNG" value="chosen">PNG</label>
             <label><input type="checkbox" name="URL" value="chosen">URL</label>
                 
-            </fieldset>
             
+                <label>
+                <select name="device">
+                <option value="none">Please Select</option>
+                <option value="laptop">Laptop</option>
+                <option value="iphone">iPhone</option>
+                <option value="ipad">iPad</option>
+                <option value="samsung">Samsung</option>
+                </select>
+                </label>
+    </fieldset>
+    
             <label>Comments
             <textarea name="comments"></textarea>
             </label>
